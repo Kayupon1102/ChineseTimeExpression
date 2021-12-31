@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.96fe5479.css",
-    "main.js": "/static/js/main.fdb7a3e6.js",
-    "static/js/787.7566319d.chunk.js": "/static/js/787.7566319d.chunk.js",
-    "index.html": "/index.html",
-    "main.96fe5479.css.map": "/static/css/main.96fe5479.css.map",
-    "main.fdb7a3e6.js.map": "/static/js/main.fdb7a3e6.js.map",
-    "787.7566319d.chunk.js.map": "/static/js/787.7566319d.chunk.js.map"
+    "main.css": "/ChineseTimeExpression/static/css/main.96fe5479.css",
+    "main.js": "/ChineseTimeExpression/static/js/main.b38358f5.js",
+    "static/js/787.7566319d.chunk.js": "/ChineseTimeExpression/static/js/787.7566319d.chunk.js",
+    "index.html": "/ChineseTimeExpression/index.html",
+    "main.96fe5479.css.map": "/ChineseTimeExpression/static/css/main.96fe5479.css.map",
+    "main.b38358f5.js.map": "/ChineseTimeExpression/static/js/main.b38358f5.js.map",
+    "787.7566319d.chunk.js.map": "/ChineseTimeExpression/static/js/787.7566319d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.96fe5479.css",
-    "static/js/main.fdb7a3e6.js"
+    "static/js/main.b38358f5.js"
   ]
 }
