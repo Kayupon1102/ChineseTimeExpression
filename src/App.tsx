@@ -121,7 +121,7 @@ function App() {
     "èrshijiǔ",
     "sānshí",
     "sānshiyī",
-    "Sānshièr",
+    "sānshièr",
     "sānshisān",
     "sānshisì",
     "sānshiwǔ",
