@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ChineseTimeExpression/static/css/main.607973c0.css",
-    "main.js": "/ChineseTimeExpression/static/js/main.cf845a5c.js",
+    "main.js": "/ChineseTimeExpression/static/js/main.38a9fa99.js",
     "static/js/787.7566319d.chunk.js": "/ChineseTimeExpression/static/js/787.7566319d.chunk.js",
     "index.html": "/ChineseTimeExpression/index.html",
     "main.607973c0.css.map": "/ChineseTimeExpression/static/css/main.607973c0.css.map",
-    "main.cf845a5c.js.map": "/ChineseTimeExpression/static/js/main.cf845a5c.js.map",
+    "main.38a9fa99.js.map": "/ChineseTimeExpression/static/js/main.38a9fa99.js.map",
     "787.7566319d.chunk.js.map": "/ChineseTimeExpression/static/js/787.7566319d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.607973c0.css",
-    "static/js/main.cf845a5c.js"
+    "static/js/main.38a9fa99.js"
   ]
 }
